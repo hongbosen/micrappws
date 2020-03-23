@@ -1,0 +1,14 @@
+*.log
+*.jpg
+*.jpeg
+*.xlsx
+*.xls
+*.doc
+*.png
+*.gif
+*.pyc
+*.pdf
+/webAPI/test/*
+/resources/*/*.log
+.idea
+*.pem
